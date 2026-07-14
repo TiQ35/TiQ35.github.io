@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tiq35.github.io/sitemap.xml
