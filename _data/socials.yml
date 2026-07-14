@@ -1,0 +1,10 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: z345zhan@uwaterloo.ca # your email address
+cv_pdf: /assets/pdf/Zheyu_Zhang_CV.pdf # path to your CV PDF file
+github_username: TiQ35 # your GitHub username
+orcid_id: 0009-0001-6862-1685 # your ORCID iD
+# linkedin_username: # TODO: your LinkedIn username
+# scholar_userid: # TODO: your Google Scholar ID (once you create a profile)
+rss_icon: false

@@ -1,0 +1,91 @@
+cv:
+  name: Zheyu Zhang
+  label: Undergraduate Researcher
+  email: z345zhan@uwaterloo.ca
+  location: Waterloo, ON, Canada
+  image: ""
+  summary: Materials & Nanosciences undergraduate working on computational modeling of ion transport in solid-state electrolytes, with prior experimental work in droplet microfluidics.
+
+  sections:
+    Education:
+      - institution: University of Waterloo
+        location: Waterloo, ON, Canada
+        url: https://uwaterloo.ca/
+        area: Materials & Nanosciences
+        studyType: B.Sc. (Honours)
+        start_date: 2023
+        end_date: 2027 (expected)
+        score: "Cumulative average: 92.64%"
+
+      - institution: Beijing Jiaotong University
+        location: Beijing, China
+        url: https://en.bjtu.edu.cn/
+        area: Nanomaterials & Technology
+        studyType: B.Eng. (dual-degree program)
+        start_date: 2023
+        end_date: 2027 (expected)
+
+    Research Experience:
+      - company: University of Waterloo — Prof. Tetsassi Feugmo's group
+        position: Undergraduate Researcher
+        location: Waterloo, ON, Canada
+        start_date: 2026-01-01
+        end_date: present
+        summary: Computational modeling of Li⁺ transport in LiPON solid electrolytes.
+        highlights:
+          - Implementing and analyzing a coupled Poisson–Nernst–Planck + classical DFT (PNP–cDFT) framework in Python/JAX.
+          - Studying temperature-dependent Li⁺ diffusion and transport trends using literature parameters.
+
+      - company: Beijing Jiaotong University — Prof. Yuandu Hu's group
+        position: Undergraduate Researcher
+        location: Beijing, China
+        start_date: 2024-01-01
+        end_date: 2025-12-31
+        summary: Droplet-microfluidic fabrication of Fe-alginate microgels.
+        highlights:
+          - Investigated effects of droplet composition, viscosity, and FeCl₃ concentration on microgel morphology and deformation.
+          - Characterized microgels with SEM and optical microscopy.
+          - Work contributed to two co-authored publications (Lab on a Chip 2025; Chinese J. Polymer Science 2025).
+
+    Publications:
+      - title: "Droplet microfluidics-assisted fabrication of Fe-alginate microgels with complex morphology: effect of the composition of droplets"
+        authors:
+          - Jie Chen
+          - Penghui Li
+          - Ran An
+          - Aishan Cai
+          - Kaiqi Wang
+          - Zheyu Zhang
+          - Tao Wang
+          - Yuandu Hu
+        publisher: Lab on a Chip, 2025, 25(13), 3270–3286
+        releaseDate: 2025-06-12
+        url: https://doi.org/10.1039/D4LC01101E
+
+      - title: Spherical Magnetic Fe-Alginate Microgels Fabricated by Droplet-Microfluidics Combining with an External Crosslinking Approach and the Study of Their pH Dependent Fe3+ Release Behaviors
+        authors:
+          - Jie Chen
+          - Run-Yu Yu
+          - Kai-Qi Wang
+          - Zhe-Yu Zhang
+          - Arezoo Ardekani
+          - Yuan-Du Hu
+        publisher: Chinese Journal of Polymer Science, 2025, 43(2), 289–302
+        releaseDate: 2024-12-05
+        url: https://doi.org/10.1007/s10118-025-3257-2
+
+    Skills:
+      - name: Computational
+        icon: fa-solid fa-laptop-code
+        keywords: "Python, JAX, NumPy, Matplotlib, PNP / classical DFT / numerical modeling, LaTeX, MATLAB, Origin"
+
+      - name: Experimental
+        icon: fa-solid fa-flask
+        keywords: "Droplet microfluidics, optical microscopy, SEM"
+
+    Languages:
+      - name: Mandarin Chinese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
