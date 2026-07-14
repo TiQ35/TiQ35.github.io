@@ -28,7 +28,7 @@ latest_posts:
 
 I am an undergraduate student in **Materials and Nanosciences** at the University of Waterloo, in a dual-degree program with Beijing Jiaotong University (B.Eng. in Nanomaterials & Technology), with both degrees expected in 2027.
 
-My research interest is **computational modeling of energy materials**, with a focus on ion transport in solid-state electrolytes. I currently work in Prof. Tetsassi Feugmo's group at Waterloo, developing a **Poisson–Nernst–Planck + classical DFT (PNP–cDFT)** framework in Python/JAX to model Li⁺ transport in LiPON solid electrolytes — connecting microscopic structure to temperature-dependent diffusion and transport behavior.
+My research interest is **computational modeling of energy materials**. I currently work in Prof. Tetsassi Feugmo's group at Waterloo on computational electrochemistry — more details here once the work is published.
 
 Before moving into computation, I did experimental work on **droplet-microfluidic fabrication of Fe-alginate microgels** in Prof. Yuandu Hu's group at BJTU, which led to two co-authored publications. That combination — hands-on materials synthesis plus physics-based modeling — shapes how I think about research: models should answer questions that matter at the bench.
 

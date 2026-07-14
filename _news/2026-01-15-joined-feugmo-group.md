@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Prof. Tetsassi Feugmo's group at the University of Waterloo, working on PNP–cDFT modeling of Li⁺ transport in LiPON solid electrolytes.
+Joined Prof. Tetsassi Feugmo's group at the University of Waterloo as an undergraduate researcher in computational electrochemistry.

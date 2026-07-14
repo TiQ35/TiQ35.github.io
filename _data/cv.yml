@@ -4,7 +4,7 @@ cv:
   email: z345zhan@uwaterloo.ca
   location: Waterloo, ON, Canada
   image: ""
-  summary: Materials & Nanosciences undergraduate working on computational modeling of ion transport in solid-state electrolytes, with prior experimental work in droplet microfluidics.
+  summary: Materials & Nanosciences undergraduate working on computational modeling of energy materials, with prior experimental work in droplet microfluidics.
 
   sections:
     Education:
@@ -31,10 +31,7 @@ cv:
         location: Waterloo, ON, Canada
         start_date: 2026-01-01
         end_date: present
-        summary: Computational modeling of Li⁺ transport in LiPON solid electrolytes.
-        highlights:
-          - Implementing and analyzing a coupled Poisson–Nernst–Planck + classical DFT (PNP–cDFT) framework in Python/JAX.
-          - Studying temperature-dependent Li⁺ diffusion and transport trends using literature parameters.
+        summary: Ongoing research in computational electrochemistry (details to be shared upon publication).
 
       - company: Beijing Jiaotong University — Prof. Yuandu Hu's group
         position: Undergraduate Researcher
@@ -77,7 +74,7 @@ cv:
     Skills:
       - name: Computational
         icon: fa-solid fa-laptop-code
-        keywords: "Python, JAX, NumPy, Matplotlib, PNP / classical DFT / numerical modeling, LaTeX, MATLAB, Origin"
+        keywords: "Python, NumPy, Matplotlib, numerical modeling, LaTeX, MATLAB, Origin"
 
       - name: Experimental
         icon: fa-solid fa-flask

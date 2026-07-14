@@ -4,9 +4,9 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/Zheyu_Zhang_CV.pdf # you can also use external links here
+# cv_pdf: /assets/pdf/Zheyu_Zhang_CV.pdf # re-enable once an updated (project-free) CV PDF is added
 cv_format: rendercv # options: rendercv, jsonresume
-description: A PDF version is available via the download button.
+description:
 toc:
   sidebar: left
 ---

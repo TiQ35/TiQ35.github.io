@@ -2,7 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: z345zhan@uwaterloo.ca # your email address
-cv_pdf: /assets/pdf/Zheyu_Zhang_CV.pdf # path to your CV PDF file
+# cv_pdf: /assets/pdf/Zheyu_Zhang_CV.pdf # re-enable once an updated (project-free) CV PDF is added
 github_username: TiQ35 # your GitHub username
 orcid_id: 0009-0001-6862-1685 # your ORCID iD
 # linkedin_username: # TODO: your LinkedIn username

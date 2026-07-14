@@ -26,4 +26,4 @@ Using **droplet microfluidics**, we fabricated Fe-alginate microgels and systema
 
 This work resulted in two co-authored papers: one in *Lab on a Chip* (2025) on morphology control, and one in the *Chinese Journal of Polymer Science* (2025) on magnetic spherical microgels and controlled release — see [publications](/publications/).
 
-It was also my entry point into research: it taught me how real materials behave outside of idealized models, an intuition I now carry into computational work on ion transport.
+It was also my entry point into research: it taught me how real materials behave outside of idealized models, an intuition I now carry into computational work.
