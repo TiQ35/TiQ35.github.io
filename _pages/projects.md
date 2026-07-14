@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects, past and ongoing — each page tells the story of a problem, an approach, and what came out of it.
+description: Research projects, past and ongoing. Each page tells the story of a problem, an approach, and what came out of it.
 nav: true
 nav_order: 3
 display_categories: [research]

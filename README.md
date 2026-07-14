@@ -1,6 +1,6 @@
 # tiq35.github.io
 
-Personal academic website of **Zheyu Zhang** — Materials & Nanosciences undergraduate at the University of Waterloo, working on computational modeling of energy materials.
+Personal academic website of **Zheyu Zhang**, Materials & Nanosciences undergraduate at the University of Waterloo, working on computational modeling of energy materials.
 
 🔗 **https://tiq35.github.io**
 

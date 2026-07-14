@@ -9,7 +9,7 @@ last_name: Zhang
 contact_note: >
   The best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Zheyu Zhang — Materials & Nanosciences undergraduate at the University of Waterloo,
+  Zheyu Zhang, Materials & Nanosciences undergraduate at the University of Waterloo,
   working on computational modeling of energy materials.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.

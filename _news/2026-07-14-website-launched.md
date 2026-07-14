@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This website is live — it will serve as a running record of my research.
+This website is live. It will serve as a running record of my research.
